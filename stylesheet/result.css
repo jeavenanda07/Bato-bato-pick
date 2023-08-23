@@ -1,0 +1,13 @@
+.you-win{
+	color:rgba(10, 255, 36, 1);
+}
+
+.you-lose{
+	color: rgba(255, 22, 10, 1);
+}
+
+.tie{
+	color:rgba(0, 93, 255, 1);
+}
+
+@media (width )
